@@ -1,3 +1,3 @@
 # CUBO
 
-Cubo de rotação mostrando seu nome
+Cubo de rotação mostrando seu nome.
